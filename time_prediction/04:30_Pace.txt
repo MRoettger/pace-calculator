@@ -1,0 +1,12 @@
+Time per km: 04:30 
+Simple Time Calulater: 
+
+      Speed: 13.33 km/h
+      400m time: 01:48
+      5k time: 22:30
+      10k time: 45:00
+      21,0975k time: 01:34:56
+      25k time:01:52:30
+      42,195k time: 03:09:53 
+
+      
